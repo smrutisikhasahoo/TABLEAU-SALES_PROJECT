@@ -90,4 +90,13 @@ Represent the distribution of customers based on the number of orders they have 
 
 # Customer Dashboard
 ![Image](https://github.com/user-attachments/assets/d757fc6e-445d-4af4-91d0-10e25c83a42d)
- 
+
+## My Tableau Profile Link:
+https://public.tableau.com/app/profile/smrutisikha.sahoo/vizzes
+
+## Link of this project:
+https://public.tableau.com/app/profile/smrutisikha.sahoo/viz/SalesCustomerDashboard_17428329293270/SalesDashboard?
+publish=yes
+
+## My Linkedin Profile:
+https://www.linkedin.com/in/smrutisikha-sahoo
